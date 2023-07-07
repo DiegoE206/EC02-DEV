@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mapa"
+        android:icon="@drawable/mapa"
+        android:title="Maps" />
+    <item
+        android:id="@+id/camara"
+        android:icon="@drawable/camara"
+        android:title="Camera"
+        />
+    <item
+        android:id="@+id/info"
+        android:icon="@drawable/info"
+        android:title="Info"/>
+</menu>
